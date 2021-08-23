@@ -1,0 +1,1 @@
+Test-NetConnection -ComputerName .us-east-1.rds.amazonaws.com -Port 3306 -InformationLevel Detailed
